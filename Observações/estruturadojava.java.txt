@@ -1,0 +1,13 @@
+public class PrimeiroPrograma {
+public static void main (String args[])
+{ System.out.println("Hello World! Esse é um desafio simples da DIO para aprendizado");
+        }
+               }
+
+
+obs : Quando escrevemos um codigo de um programa esse codigo sera o código-fonte
+OU SEJA o PrimeiroPrograma.java , a extensão sera .java, mas quando formos compilar
+com o JDK ele sera responsavel por transformar esse arquivo em um BYTECODE ( arquivo.class)
+
+que posteriormente sera lido por uma maquina virtual java JVM que transformará esse bytecode 
+em linguagem de maquina Hardware. 
