@@ -1,2 +1,2 @@
-# Desafio-dio-Peterson
-Meu primeiro desafio dio
+# Desafio-Dio-Peterson
+Meu primeiro desafio Dio
